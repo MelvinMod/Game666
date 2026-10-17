@@ -2,7 +2,7 @@
 A strange block game made by me and a friend. 
 
 # DISCLAIMER
-No AI, I am creating a game on my own, and when I have time, my friend helps me create the game. He doesn't want to show himself, so before downloading, understand that I am creating the game alone and my friend helps me in his free time.
+No AI, I am creating a game on my own, and when my friend have time, he helps me create this game. He doesn't want to show himself, so before downloading, understand that I am creating the game alone and my friend helps me in his free time.
 
 ## About the Project
 This is a personal passion project for fun and learning. The game is very inspired by **TimeCraft**, an old block game made by former Minecraft developers that has since been removed from the internet.
