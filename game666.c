@@ -1768,7 +1768,7 @@ static void drawHelp(void) {
 }
 
 static void drawHUD(void) {
-    DrawText("game666 0.1.0 (RTS base)", 10, 10, 20, DARKGRAY);
+    DrawText("game666 0.0.2 preview", 10, 10, 20, DARKGRAY);
     DrawText(TextFormat("Mode: %s   Slot: %s   Selected: %d%s", buildMode ? "BUILD" : "RTS",
              hotbar[hotbarSlot].name, selCount, selAvatar ? " + avatar" : ""), 10, 36, 14, DARKGRAY);
     if (buildMode) DrawText(TextFormat("Fill height: %d (Shift+Wheel)", buildHeight), 10, 52, 12, DARKBLUE);
@@ -1834,7 +1834,7 @@ static void drawMainMenu(void) {
     }
     if (drawButton((Rectangle){ bx, by + 58, bw, bh }, "New World")) newWorld();
     if (drawButton((Rectangle){ bx, by + 116, bw, bh }, "Quit")) quitRequested = true;
-    DrawText("game666 0.1.0 - github.com/MelvinMod/Game666", 10, GetScreenHeight() - 24, 14, LIGHTGRAY);
+    DrawText("game666 0.0.2 preview - github.com/MelvinMod/Game666", 10, GetScreenHeight() - 24, 14, LIGHTGRAY);
 }
 
 static void drawPauseMenu(void) {
