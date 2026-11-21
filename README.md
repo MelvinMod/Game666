@@ -2,7 +2,7 @@
 A strange block game made by me and a friends. 
 
 # DISCLAIMER
-No AI, I am creating a game on my own, and when my friends have time, he helps me create this game. They doesn't want to show themself, so before downloading, understand that I am creating the game alone and my friends helps me in his free time.
+No AI, I am creating a game on my own, and when my friends have time, they helping me create this game. They doesn't want to show themself, so before downloading, understand that I am creating the game alone and my friends helps me in their free time.
 
 Honestly, I don't care if parts are seen as AI-generated or not, just what matters to me is that this game is made by me and my friend.
 
