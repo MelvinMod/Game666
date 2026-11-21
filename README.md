@@ -4,6 +4,8 @@ A strange block game made by me and a friends.
 # DISCLAIMER
 No AI, I am creating a game on my own, and when my friends have time, he helps me create this game. They doesn't want to show themself, so before downloading, understand that I am creating the game alone and my friends helps me in his free time.
 
+ONLY TEXTURES MADE BY LLM DUE TO COPYRIGHT!!!
+
 ## About the Project
 This is a personal passion project (created in 2017 and unveiled privately in 2020) for fun and learning. The game is very inspired by **TimeCraft**, an old block game made by former Minecraft developers that has since been removed from the internet.
 
